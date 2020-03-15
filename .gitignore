@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# demo input output and cache folders
+demo/archive/
+demo/input/
+demo/output/
+demo/cache/
+
